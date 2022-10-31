@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/ankur"><img src="https://api.daily.dev/devcards/cbd0229bc9404a7386d3d72765ee4f58.png?r=qwz" width="400" alt="Ankur Singh Chauhan's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Ankur Singh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from Nepal and a minimalism enthusiast.</h3>
 
@@ -36,6 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progressive-coder-ankur&show_icons=true&locale=en&layout=compact" alt="progressive-coder-ankur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progressive-coder-ankur&show_icons=true&locale=en" alt="progressive-coder-ankur" /></p>
-
-
-<a href="https://app.daily.dev/ankur"><img src="https://api.daily.dev/devcards/cbd0229bc9404a7386d3d72765ee4f58.png?r=qwz" width="400" alt="Ankur Singh Chauhan's Dev Card"/></a>
