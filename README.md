@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ankur"><img src="https://api.daily.dev/devcards/cbd0229bc9404a7386d3d72765ee4f58.png?r=qwz" width="400" alt="Ankur Singh Chauhan's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/ankur"><img src="https://api.daily.dev/devcards/cbd0229bc9404a7386d3d72765ee4f58.png?r=qwz" width="400" alt="Ankur Singh Chauhan's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Ankur Singh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from Nepal and a minimalism enthusiast.</h3>
